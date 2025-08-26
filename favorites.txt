@@ -3,7 +3,6 @@ Comidas
 lomo saltado
 ceviche
 chancho al horno
-<<<<<<< HEAD
 
 Movies
 ----------------
@@ -12,7 +11,3 @@ Lilo and Stitch
 Gladiator
 Uno
 Dos
-=======
-causa
-tallarin
->>>>>>> foods
