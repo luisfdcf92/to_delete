@@ -3,6 +3,10 @@ Comidas
 lomo saltado
 ceviche
 chancho al horno
+causa
+tallarin
+camaron
+rocoto
 
 Movies
 ----------------
